@@ -270,7 +270,7 @@ a:active {
 
 .section-footer {
     padding: var(--section-footer-padding);
-    align-content: var(--section-footer-align);
+    text-align: var(--section-footer-align);
 }
 
 .section-title {
@@ -294,12 +294,7 @@ a:active {
     margin-right: auto;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+h1, h2, h3, h4, h5, h6 {
     font-family: var(--font-family-title);
     font-weight: var(--font-weight-bold);
 }
