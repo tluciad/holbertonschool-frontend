@@ -142,10 +142,6 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: var(--font-weight-bold);
 }
 
-.footer {
-    padding: var(--footer-padding);
-}
-
 .nav{
     margin: 0;
     padding: 0;
@@ -171,12 +167,16 @@ h1, h2, h3, h4, h5, h6 {
 .nav .nav-link:hover{
     color: var(--nav-item-link-hover);
 }
+
+.footer {
+    padding: var(--footer-padding);
+}
 .footer-copyright{
     margin: 0;
     font-size:var(--font-size-small);
     color: var(--text-color);
 
 }
-ul .footer{
+.footer ul{
     text-align: right;
 }
