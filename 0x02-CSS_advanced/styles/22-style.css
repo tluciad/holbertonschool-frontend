@@ -56,6 +56,12 @@ body {
     line-height: var(--line-height-base);
 }
 
+[data-section-theme=“dark”] {
+    --text-color: var(--color-white);
+    --section-title-color: var(--color-white);
+    background-color: var(--color-black);
+}
+
 a:link {
     color: #161616;
     text-decoration: none;
@@ -181,12 +187,6 @@ h1, h2, h3, h4, h5, h6 {
     display:block;
     padding: 0.5rem 1rem;
 }
-.nav .nav-link:hover{
+.nav .nav-link:hover {
     color: var(--nav-item-link-hover);
-}
-
-[data-section-theme=“dark”]{
-    --text-color: var(--color-white);
-    --section-title-color: var(--color-white);
-    background-color: var(--color-black);
 }
