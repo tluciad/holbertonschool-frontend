@@ -8,6 +8,7 @@ For this project, we expect you to look at this concept:
 
 Responsive web design
 
+![image](https://user-images.githubusercontent.com/98775997/209246400-db1555df-214c-4b72-ad9d-34b892562dc0.png)
 
 ## Resources
 Read or watch:
@@ -34,3 +35,6 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 * A README.md at the root of the project directory is mandatory
 * HTML and CSS have been rendered on Chrome 78 or more.
 * Wireframe of the Techium project - mobile version
+
+![image](https://user-images.githubusercontent.com/98775997/209246453-6f2f3fe4-8522-4d06-aaff-9bec0952bf20.png)
+
